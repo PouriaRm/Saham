@@ -767,7 +767,7 @@ input[type='checkbox'] {
 }
 
 .header #js-rotating {
-	color: #40e0ee;
+	color: #afc686;
 }
 
 .header .p-large {
@@ -1450,7 +1450,7 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background: linear-gradient(to bottom right, #2c1a7e, #5557db);
+	background: linear-gradient(to bottom right, #4b6645, #53714b);
 	text-align: center;
 }
 
