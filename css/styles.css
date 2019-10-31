@@ -68,7 +68,7 @@ h1 {
 }
 
 h2 {
-	color: #53714b;
+	color: #afc686;
 	font: 700 2.25rem/2.75rem "Montserrat", sans-serif;
 }
 
@@ -267,9 +267,9 @@ a.white {
 	padding-top: 1.0625rem;
 	padding-bottom: 0.0625rem;
 	padding-left: 1.3125rem;
-	border: 1px solid #9791ae;
+	border: 1px solid #afc686;
 	border-radius: 0.25rem;
-	background-color: #53714b;
+	background-color: #afc686;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -1315,7 +1315,7 @@ input[type='checkbox'] {
 
 .counter #counter .counter-info {
 	margin-bottom: 0;
-	color: #4b6645;
+	color: #afc686;
 	font: 400 0.875rem/1.25rem "Open Sans", sans-serif;
 	vertical-align: middle;
 }
