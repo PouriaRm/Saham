@@ -1579,12 +1579,12 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom.top-nav-collapse .nav-item .nav-link {
-		color: #afc686;
+		color: #f8f7f5;
 	}
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #4b6645;
+		color: #afc686;
 	}
 
 	.navbar-custom .dropdown-menu {
