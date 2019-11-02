@@ -663,7 +663,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #4b6645;
+	color: #afc686;
 }
 
 /* Dropdown Menu */
@@ -1565,7 +1565,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #afc686;
+		color: #4b6645;
 	}
 
 	.navbar-custom.top-nav-collapse {
