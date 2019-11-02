@@ -1551,7 +1551,7 @@ a:hover.back-to-top {
 	}
 	
 	.navbar-custom .navbar-brand.logo-text {
-		color: #000;
+		color: #fff;
 	}
 
 	.navbar-custom .navbar-nav {
@@ -1575,7 +1575,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom.top-nav-collapse .navbar-brand.logo-text {
-		color: #afc686;
+		color: #000;
 	}
 
 	.navbar-custom.top-nav-collapse .nav-item .nav-link {
