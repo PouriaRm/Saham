@@ -918,7 +918,7 @@ input[type='checkbox'] {
 	width: 3.5rem;
 	height: 3.5rem;
 	border-radius: 50%;
-	background-color: #4b6645;
+	background-color: #afc686;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1126,7 +1126,7 @@ input[type='checkbox'] {
 .basic-3 {
 	padding-top: 3.5rem;
 	padding-bottom: 7.25rem;
-	background-color: #4b6645;
+	background-color: #53714b;
 }
 
 .basic-3 .text-container {
@@ -1300,7 +1300,7 @@ input[type='checkbox'] {
 .counter {
 	padding-top: 6.5rem;
 	padding-bottom: 5.375rem;
-	background-color: #4b6645;
+	background-color: #53714b;
 	text-align: center;
 }
 
@@ -1365,7 +1365,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 5rem;
-	background-color: #4b6645;
+	background-color: #53714b;
 }
 
 .footer .footer-col {
